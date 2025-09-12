@@ -1,0 +1,48 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Adaobi Okafor",
+      "email": "adaobi.okafor@example.com",
+      "phone": "+2348012345678",
+      "location": "Lagos, Nigeria",
+      "joined_date": "2023-06-15",
+      "purchases": [
+        {
+          "item": "Wireless Earbuds",
+          "amount": 15000,
+          "date": "2023-07-01"
+        },
+        {
+          "item": "Smartwatch",
+          "amount": 35000,
+          "date": "2023-08-12"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Chinedu Eze",
+      "email": "chinedu.eze@example.com",
+      "phone": "+2348023456789",
+      "location": "Abuja, Nigeria",
+      "joined_date": "2024-01-20",
+      "purchases": [
+        {
+          "item": "Laptop Bag",
+          "amount": 8000,
+          "date": "2024-02-05"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Fatima Bello",
+      "email": "fatima.bello@example.com",
+      "phone": "+2348034567890",
+      "location": "Kano, Nigeria",
+      "joined_date": "2022-11-03",
+      "purchases": []
+    }
+  ]
+}
