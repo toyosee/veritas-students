@@ -35,7 +35,7 @@ function AboutDeveloper() {
           {/* Developer Info */}
           <div className="lg:col-span-2 space-y-6">
             <div>
-              <h2 className="text-3xl font-bold text-gray-800 flex items-center gap-2">
+              <h2 className="text-3xl font-bold text-blue-900 flex items-center gap-2">
                 <FiUser className="text-blue-700" />
                 Elijah — Full Stack Developer
               </h2>
